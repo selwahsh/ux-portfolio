@@ -1,9 +1,5 @@
 ### Research
 Planned a research study, including research goals, recruiting criteria, and scripts.
-The research plan includes:
-The background of the project
-Main research goals
-Key research questions
-Method: a brief explanation of how to apply the method
-Recruiting criteria
-The list of interview/survey questions
+Research report summarizing the findings supported by data and provided actionable recommendations & next steps.
+Sketched out designs by hand, and improving the design based on design principles and research outcomes.
+
